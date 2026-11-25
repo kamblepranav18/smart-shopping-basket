@@ -1,0 +1,73 @@
+InvoiceNo,Description,Quantity
+T001,Bread,1
+T001,Milk,1
+T001,Butter,1
+T002,Bread,1
+T002,Milk,1
+T003,Milk,1
+T003,Butter,1
+T003,Eggs,1
+T004,Bread,1
+T004,Butter,1
+T004,Jam,1
+T005,Milk,1
+T005,Eggs,1
+T006,Bread,1
+T006,Milk,1
+T006,Eggs,1
+T007,Coffee,1
+T007,Sugar,1
+T007,Milk,1
+T008,Coffee,1
+T008,Sugar,1
+T009,Bread,1
+T009,Jam,1
+T010,Milk,1
+T010,Butter,1
+T011,Tea,1
+T011,Sugar,1
+T011,Biscuits,1
+T012,Tea,1
+T012,Biscuits,1
+T013,Coffee,1
+T013,Milk,1
+T013,Biscuits,1
+T014,Bread,1
+T014,Milk,1
+T014,Butter,1
+T015,Eggs,1
+T015,Bread,1
+T016,Tea,1
+T016,Sugar,1
+T017,Coffee,1
+T017,Sugar,1
+T017,Biscuits,1
+T018,Milk,1
+T018,Bread,1
+T019,Butter,1
+T019,Jam,1
+T020,Bread,1
+T020,Eggs,1
+T020,Milk,1
+T021,Mobile Phone,1
+T021,Phone Case,1
+T022,Mobile Phone,1
+T022,Screen Guard,1
+T023,Laptop,1
+T023,Laptop Bag,1
+T024,Laptop,1
+T024,Mouse,1
+T025,Mobile Phone,1
+T025,Phone Case,1
+T025,Screen Guard,1
+T026,Headphones,1
+T026,Mobile Phone,1
+T027,Laptop,1
+T027,Mouse,1
+T027,Laptop Bag,1
+T028,Phone Case,1
+T028,Screen Guard,1
+T029,Headphones,1
+T029,Laptop,1
+T030,Mobile Phone,1
+T030,Headphones,1
